@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/search?q=full+stack+developer+animated+images&tbm=isch&ved=2ahUKEwiX_K2D1oH5AhV7i9gFHSXeCjgQ2-cCegQIABAA&oq=full+stack+developer+animated+images&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQHlDIEljuJmDiLGgAcAB4AIABbYgBpgaSAQM0LjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GuvUYpeHOPuW4t4PpbyrwAM&bih=722&biw=1536#imgrc=9O94NafxSpFguM)](https://sagar2023.io)
+[![MasterHead](https://www.google.com/search?q=full+stack+developer+animated+images&tbm=isch&ved=2ahUKEwiX_K2D1oH5AhV7i9gFHSXeCjgQ2-cCegQIABAA&oq=full+stack+developer+animated+images&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQHlDIEljuJmDiLGgAcAB4AIABbYgBpgaSAQM0LjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GuvUYpeHOPuW4t4PpbyrwAM&bih=722&biw=1536#imgrc=9O94NafxSpFguM)]
 <h1 align="center">Hi 👋, I'm Sagar Deshmukh</h1>
 <h3 align="center">I am Full Stack Web Developer and also passionate about problem solving</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar2023&label=Profile%20views&color=0e75b6&style=flat" alt="sagar2023" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sagarde99096300" target="blank"><img src="https://img.shields.io/twitter/follow/sagarde99096300?logo=twitter&style=for-the-badge" alt="sagarde99096300" /></a> </p>

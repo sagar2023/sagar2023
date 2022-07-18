@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2018/10/Blog_Full-stack-dev.jpg.webp)]
+[![MasterHead](https://i0.wp.com/gauravtiwari.org/wp-content/uploads/2021/01/man-computer-desk-5674344.jpg?w=1280&quality=100&ssl=1)]
 <h1 align="center">Hi 👋, I'm Sagar Deshmukh</h1>
 <h3 align="center">I am Full Stack Web Developer and also passionate about problem solving</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

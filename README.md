@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/rudrabarad/Gifs)]
+[![MasterHead](https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2018/10/Blog_Full-stack-dev.jpg.webp)]
 <h1 align="center">Hi 👋, I'm Sagar Deshmukh</h1>
 <h3 align="center">I am Full Stack Web Developer and also passionate about problem solving</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

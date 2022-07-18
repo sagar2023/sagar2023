@@ -1,4 +1,4 @@
-[![MasterHead](https://www.programmingoneonone.com/2020/05/how-to-become-full-stack-developer.html)]
+[![MasterHead](https://1.bp.blogspot.com/-yacyGiBY-L8/XpNJ54ZAMDI/AAAAAAAALcE/kEVaUzloWuowF6WAsx_Gpom--0X4lAqNwCK4BGAYYCw/s640/How-to-become-a-full-stack-developer.gif)]
 <h1 align="center">Hi 👋, I'm Sagar Deshmukh</h1>
 <h3 align="center">I am Full Stack Web Developer and also passionate about problem solving</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
